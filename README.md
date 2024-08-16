@@ -1,0 +1,1 @@
+This is a project on simulation of food delivery in powai region with anylogic. The Zip file uploaded is an anylogic model so, it will require anylogic or arena to be installed on the pc to run the file.
